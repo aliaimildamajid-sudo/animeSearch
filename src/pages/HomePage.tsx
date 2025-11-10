@@ -78,10 +78,10 @@ export default function HomePage() {
             {/* Profile Info */}
             <div className="flex-1 text-center md:text-left">
               <h1 className="text-4xl font-bold text-gray-800 mb-2">Alia Wahida</h1>
-              <p className="text-xl text-gray-600 mb-4">Full Stack Developer | Anime Enthusiast</p>
+              <p className="text-xl text-gray-600 mb-4">Full Stack Developer</p>
               <p className="text-gray-700 leading-relaxed mb-6">
                 Hi there! I am a rising junior developer with 2 years of experience. I previously worked at Accenture as a frontend developer, primarily using Angular, TypeScript, JavaScript, HTML, CSS, and Ionic.  
-                Later, I transitioned to a backend role at Affin Bank Malaysia as a .NET developer, working with C# and ASP.NET. Feel free to click the link provided for mo
+                Later, I transitioned to a backend role at Affin Bank Malaysia as a .NET developer, working with C# and ASP.NET. Feel free to click the link provided for more
             </p>
 
 
